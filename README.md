@@ -9,8 +9,8 @@
  * R Studio: IDE para R. [Descargar](https://www.rstudio.com/products/rstudio/download/)
 
 ## Configuraciones especiales
- - [Python](https://github.com/CamiloAguilar/DS_CrashCourse/blob/master/Python/Python%20configuration.md)
- - [R](https://github.com/CamiloAguilar/DS_CrashCourse/blob/master/R/R%20configuration.md)
+ - [Python](https://github.com/CamiloAguilar/DS_CrashCourse/blob/master/Python)
+ - [R](https://github.com/CamiloAguilar/DS_CrashCourse/tree/master/R)
  
 ## Bibliografía
  - [Statistical inference for data science](https://leanpub.com/LittleInferenceBook)

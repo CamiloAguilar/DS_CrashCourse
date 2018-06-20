@@ -18,4 +18,4 @@
  - [Regression models for Data science in R](https://leanpub.com/regmods)
  - [Advanced linear models for Data Science](https://leanpub.com/lm)
  - [Quick Guide To Data Science With Python](https://leanpub.com/quickguidetodatasciencewithpython)
- - [R Markdown](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
+ - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

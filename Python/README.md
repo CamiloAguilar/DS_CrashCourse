@@ -1,21 +1,3 @@
-# Data Science Fundamentals
-### Hackaton Ether
+# Configuración rápida Python
+### Guía corta para la instalación y configuración inicial.
 
-## Descarga e instalación de software
- * GitHub: Plataforma de desarrollo colaborativo. [Descarga](https://desktop.github.com/)
- * Sublime: Editor de texto para código. [Descargar](https://www.sublimetext.com/)
- * Python 3.6: Lenguaje de programación. [Descargar](https://www.python.org/downloads/)
- * R: para programación estadística. [Descargar](https://www.icesi.edu.co/CRAN/)
- * R Studio: IDE para R. [Descargar](https://www.rstudio.com/products/rstudio/download/)
-
-## Configuraciones especiales
- - [Python](https://github.com/CamiloAguilar/DS_CrashCourse/blob/master/Python/Python%20configuration.md)
- - [R](https://github.com/CamiloAguilar/DS_CrashCourse/blob/master/R/R%20configuration.md)
- 
-## Bibliografía
- - [Statistical inference for data science](https://leanpub.com/LittleInferenceBook)
- - [R programming](https://leanpub.com/rprogramming)
- - [Regression models for Data science in R](https://leanpub.com/regmods)
- - [Advanced linear models for Data Science](https://leanpub.com/lm)
- - [Quick Guide To Data Science With Python](https://leanpub.com/quickguidetodatasciencewithpython)
- - [R Markdown](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)

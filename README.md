@@ -3,8 +3,8 @@
 
 ## Descarga e instalación de software
  * GitHub: Plataforma de desarrollo colaborativo. [Descarga](https://desktop.github.com/)
- * Sublime: Editor de texto para código. [Descargar](https://www.sublimetext.com/)
- * Python 3.6: Lenguaje de programación. [Descargar](https://www.python.org/downloads/)
+ * Sublime: Editor de texto para edición de código. [Descargar](https://www.sublimetext.com/)
+ * Python 3.6: Lenguaje de programación. [Descargar](https://www.python.org/downloads/). Es recomendable instalar versión de [64 bits](https://www.python.org/ftp/python/3.6.5/python-3.6.5-amd64.exe) en caso que sea posible.
  * R: para programación estadística. [Descargar](https://www.icesi.edu.co/CRAN/)
  * R Studio: IDE para R. [Descargar](https://www.rstudio.com/products/rstudio/download/)
 

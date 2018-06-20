@@ -25,9 +25,8 @@ install.packages("dplyr", dependencies=T)
 Resulta necesario instalar la librería _IRkernel_ en R desde `devtools`, puesto que aún no se encuentra disponible en CRAN.
 
 ```r
-install.packages('devtools')
 devtools::install_github('IRkernel/IRkernel')
 IRkernel::installspec()  # Para registrar el kernel en la actual instalación de R
 ```
 
-Ahora estará disponible el kernel de R dentro del notebook de Jupyter.
+Ahora estará disponible el kernel de R dentro del notebook de Jupyter. Para mayor información consultar el siguiente [enlace](https://github.com/IRkernel/IRkernel)

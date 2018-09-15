@@ -116,10 +116,34 @@ lista0 <- list("casa", 0, "perro", 100, df0)
 lista0[[1]]
 lista0[[5]]
 
+#********************************
+## 3. Funciones
+#********************************
+## Las funciones son un elemento muy utilizado en la programación. Empaquetan y ‘aíslan’ del resto del programa, 
+## una parte de código que realiza alguna tarea específica.
+
+## Son por tanto un conjunto de instrucciones que ejecutan una tarea determinada y que hemos encapsulado en un 
+## formato estándar para que nos sea muy sencillo de manipular y reutilizar.
+
+## Lo vemos con un ejemplo muy simple, una función que denominamos “saludo()”, que nos da una idea del funcionamiento 
+## general:
+
+saludo <- function(){
+     print("Este es un saludo")
+}
+saludo()
+
+## Función con parámetros
+saludo_adv <- function(nombre){
+     print(paste("Este es un saludo para",nombre))
+}
+
+saludo_adv(nombre = "Camilo")
+saludo_adv("Camilo")
 
 
 #********************************
-## 3. Estructuras de control
+## 4. Estructuras de control
 #********************************
 
 # En programación, las estructuras de control permiten modificar el flujo de ejecución de las instrucciones de un programa.
